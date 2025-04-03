@@ -148,11 +148,4 @@ WHERE return_date IS NULL;
 ## Summary
 This **Library Management System** efficiently tracks books, employees, members, and transactions (issued and returned books). The ERD provides a visual representation of the relationships between entities. This system supports various CRUD and analytical operations, helping library administrators manage their inventory and operations effectively.
 
-For further modifications, you can extend the system with additional features such as **fine calculation**, **book reservations**, or **automated notifications**.
-
----
-
-
----
-**End of README**
 
